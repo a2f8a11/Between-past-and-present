@@ -1,0 +1,42 @@
+/* Ancient Civilizations Styles */
+#ancient {
+    background-color: #ffcc80; /* Roman gold */
+}
+
+#ancient h2 {
+    color: #7b5e4d; /* Ancient parchment */
+}
+
+#ancientBooks a {
+    color: #7b5e4d; /* Ancient parchment */
+}
+
+/* Islamic Civilizations Styles */
+#islamic {
+    background-color: #a3c1ad; /* Islamic green */
+}
+
+#islamic h2 {
+    color: #006400; /* Islamic calligraphy black */
+}
+
+#islamicBooks a {
+    color: #006400; /* Islamic calligraphy black */
+}
+
+/* Mysterious Phenomena Styles */
+#mysteries {
+    background-color: #5d6d7e; /* Mysterious blue */
+}
+
+#mysteries h2 {
+    color: #ffffff; /* Mystical white */
+}
+
+#mysteries h3 {
+    color: #d5dbdb; /* Ancient gray */
+}
+
+#mysteries a {
+    color: #ffffff; /* Mystical white */
+}
